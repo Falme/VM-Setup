@@ -4,5 +4,8 @@ Enable-RemoteDesktop
 cinst cheatengine
 cinst x64dbg.portable
 cinst ida-free
+cinst HxD
+cinst pestudio
 cinst vscode
+cinst firefox
 cinst visualstudio2022community
