@@ -1,0 +1,8 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+Enable-RemoteDesktop
+
+cinst cheatengine
+cinst x64dbg.portable
+cinst ida-free
+cinst vscode
+cinst visualstudio2022community
