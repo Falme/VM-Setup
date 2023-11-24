@@ -1,11 +1,13 @@
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
 Enable-RemoteDesktop
 
+cinst 7zip
 cinst cheatengine
-cinst x64dbg.portable -ia "'/D=C:\tools\x64dbg'"
-cinst ida-free
+cinst firefox
 cinst HxD
+cinst ida-free
 cinst pestudio
 cinst vscode
-cinst firefox
 cinst visualstudio2022community
+cinst wireshark
+cinst x64dbg.portable
