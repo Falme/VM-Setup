@@ -2,7 +2,7 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
 Enable-RemoteDesktop
 
 cinst cheatengine
-cinst x64dbg.portable
+cinst x64dbg.portable -ia "'/D=C:\tools\x64dbg'"
 cinst ida-free
 cinst HxD
 cinst pestudio
